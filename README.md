@@ -1,1 +1,1 @@
-# InfinityCommerce-Terraform-ArgoCD-Multicloud
+InfinityCommerce Ω-X Multicloud DevOps Stack
